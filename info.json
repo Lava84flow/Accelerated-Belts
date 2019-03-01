@@ -1,0 +1,11 @@
+{
+    "name": "speedbelt",
+    "version": "0.0.1",
+    "title": "Accelerated Belts",
+    "author": "Lava84flow",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "Adds a 4 level of belt cause I'm sick of not being able to fit 2 red belts onto a blue belt."
+}
